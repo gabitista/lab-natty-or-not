@@ -17,7 +17,7 @@ Animação e Finalização: Combinei o avatar com a voz sintetizada, ajustando a
 ## 🚀 Resultados
 O resultado final foi um vídeo curto no qual o avatar se apresenta de forma amigável. O avatar hiper-realista, junto com a voz sintetizada, proporcionou uma experiência de visualização totalmente gerada por I.A.
 
-[Veja o vídeo aqui](./video/Atividade DIO.mp4)
+[Veja o vídeo aqui](.\lab-natty-or-not\output\Atividade DIO.mp4)
 
 ## 💭 Reflexão 
 Criar um vídeo totalmente gerado por I.A. foi um desafio interessante. A experiência mostrou como a tecnologia pode ser usada para criar diferentes tipo de conteúdo. No entanto, foi um grande desafio tentar deixar o avatar e a voz naturais. Ainda há muito para aprender! Por fim, foi uma excelente oportunidade para explorar as capacidades e as limitações atuais da IA generativa, e o resultado mostrou que é possível criar conteúdo com essas ferramentas.
